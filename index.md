@@ -31,6 +31,9 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 
 * [Stories from the Frontlines of Data Science for Good](https://www.youtube.com/watch?v=lWGGm13iegc#action=share) 
 
+* [Automatically update your wallpaper with Magicseaweed's Photo of The Day](https://areias.github.io/wallpaper/)
+
+
 
 For more details and contact info check out my [academic & professional resume.](https://www.linkedin.com/in/aareias)
 
