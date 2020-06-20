@@ -8,7 +8,7 @@ I get a thrill from looking at the world through the ultimately very creative le
 
 I love the fact that the job can be a combination of quant-y wizardry, visual communication, great storytelling and business savvy.
 
-I'm currently working on poverty prediction and big data for labor at the World Bank. I'm a Harvard MPA-ID grad and formerly Fellow at Data Incubator, member of DataCorps with DataKind and Program Manager at Data-Pop Alliance. I'm also an avid surfer and struggling billiards player.
+I'm currently working on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly Fellow at [Data Incubator](https://www.thedataincubator.com/), member of DataCorps with [DataKind](https://www.datakind.org/) and Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). I'm also an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and struggling billiards player.
 
 
 ## Have a look at some projects I've worked on:
