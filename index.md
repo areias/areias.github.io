@@ -21,6 +21,8 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 
 * [Toward labor market policy 2.0 : the potential for using online job-portal big data to inform labor market policies in India](http://documents.worldbank.org/curated/en/370301486667802852/Toward-labor-market-policy-2-0-the-potential-for-using-online-job-portal-big-data-to-inform-labor-market-policies-in-India)
 
+* [Dollar Blues: Predicting the Black Market Exchange Rate in Argentina through Google Search Behavior](http://areias.github.io/dollarblues/)
+
 * [Using Data to Drive Donations: key findings from our work with DataKind](http://blog.globalgiving.org/2015/06/22/using-data-to-drive-donations-key-findings-from-our-work-with-datakind/)
 
 * [The Fascinating Day Jobs Of DataKind Volunteers](http://www.datakind.org/blog/the-fascinating-day-jobs-of-datakind-volunteers/)
