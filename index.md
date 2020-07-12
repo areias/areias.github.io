@@ -33,7 +33,7 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 
 * [Automatically update your wallpaper with Magicseaweed's Photo of The Day](https://areias.github.io/wallpaper/)
 
-
+* [Shell script for Pomodoro timer and task logger](https://github.com/areias/pomodoro)
 
 For more details and contact info check out my [academic & professional resume.](https://www.linkedin.com/in/aareias)
 
