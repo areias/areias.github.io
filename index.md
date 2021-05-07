@@ -8,10 +8,17 @@ I get a thrill from looking at the world through the ultimately very creative le
 
 I love the fact that the job can be a combination of quant-y wizardry, visual communication, great storytelling and business savvy.
 
-I'm currently working on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly Fellow at [Data Incubator](https://www.thedataincubator.com/), member of DataCorps with [DataKind](https://www.datakind.org/) and Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). I'm also an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and struggling billiards player.
+I'm currently data scientist with [Kineviz](https://www.kineviz.com/), a graph data BI and visualization platform. Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly a Fellow at [Data Incubator](https://www.thedataincubator.com/), a member of DataCorps with [DataKind](https://www.datakind.org/) and a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). I'm also an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and struggling billiards player.
 
 
-## Have a look at some projects I've worked on with the World Bank;
+## Have a look at some projects I've worked on with Kineviz:
+
+* [DreamCatcher: Deep Learning and Graph Analytics for the Dreamscape ](https://nbviewer.jupyter.org/github/areias/dreams/blob/43013dd813bb64938d2cc80fb4eabfc25ff92ed5/code/dream_catcher.ipynb)
+
+* [Twitter Demographics and the Election 2020](https://www.kineviz.com/post/2020/10/20/twitter-demographics-and-elections-2020)
+
+
+## **with the World Bank;**
 
 * [Large Number of Job Ads in India Explicitly Prefer Men: World Bank Study](https://thewire.in/women/women-jobs-india-ads-prefer-men)
 
@@ -21,7 +28,7 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 * [Toward labor market policy 2.0 : the potential for using online job-portal big data to inform labor market policies in India](http://documents.worldbank.org/curated/en/370301486667802852/Toward-labor-market-policy-2-0-the-potential-for-using-online-job-portal-big-data-to-inform-labor-market-policies-in-India)
 
 
-## **with DataKind;**
+## **and with DataKind;**
 
 * [Using Data to Drive Donations: key findings from our work with DataKind](http://blog.globalgiving.org/2015/06/22/using-data-to-drive-donations-key-findings-from-our-work-with-datakind/)
 
@@ -44,6 +51,6 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 
 
 
-For more details and contact info check out my [academic & professional resume.](https://www.linkedin.com/in/aareias)
+For more details and contact info check out my [Linkedin.](https://www.linkedin.com/in/aareias)
 
 
