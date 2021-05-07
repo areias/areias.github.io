@@ -8,7 +8,11 @@ I get a thrill from looking at the world through the ultimately very creative le
 
 I love the fact that the job can be a combination of quant-y wizardry, visual communication, great storytelling and business savvy.
 
-I'm currently data scientist with [Kineviz](https://www.kineviz.com/), a graph data BI and visualization platform. Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly a Fellow at [Data Incubator](https://www.thedataincubator.com/), a member of DataCorps with [DataKind](https://www.datakind.org/) and a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). I'm also an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and struggling billiards player.
+I'm currently a data scientist at [Kineviz](https://www.kineviz.com/), a graph data BI and visualization platform. 
+
+Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly a Fellow at [Data Incubator](https://www.thedataincubator.com/) and member of DataCorps with [DataKind](https://www.datakind.org/). I've also been a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). 
+
+When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and a struggling billiards player.
 
 
 ## Have a look at some projects I've worked on with Kineviz:
@@ -28,7 +32,7 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 * [Toward labor market policy 2.0 : the potential for using online job-portal big data to inform labor market policies in India](http://documents.worldbank.org/curated/en/370301486667802852/Toward-labor-market-policy-2-0-the-potential-for-using-online-job-portal-big-data-to-inform-labor-market-policies-in-India)
 
 
-## **and with DataKind;**
+## **with DataKind;**
 
 * [Using Data to Drive Donations: key findings from our work with DataKind](http://blog.globalgiving.org/2015/06/22/using-data-to-drive-donations-key-findings-from-our-work-with-datakind/)
 
