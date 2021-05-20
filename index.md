@@ -8,7 +8,7 @@ I get a thrill from looking at the world through the ultimately very creative le
 
 I love the fact that the job can be a combination of quant-y wizardry, visual communication, great storytelling and business savvy.
 
-I'm currently a data scientist at [Kineviz](https://www.kineviz.com/), a graph data BI and visualization platform. 
+I'm currently a data scientist at [Kineviz](https://www.kineviz.com/). I work on merging deep learning and graph technologies in GraphXR, our  graph data BI and visualization platform, to better understand high dimensional and interconnected data.
 
 Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly a Fellow at [Data Incubator](https://www.thedataincubator.com/) and member of DataCorps with [DataKind](https://www.datakind.org/). I've also been a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). 
 
