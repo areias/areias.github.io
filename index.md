@@ -10,7 +10,7 @@ I love the fact that the job can be a combination of quant-y wizardry, visual co
 
 I'm currently a data scientist at [Kineviz](https://www.kineviz.com/). I work on merging deep learning and graph technologies in GraphXR, our  graph data BI and visualization platform, to better understand high dimensional and interconnected data.
 
-Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and formerly a Fellow at [Data Incubator](https://www.thedataincubator.com/) and member of DataCorps with [DataKind](https://www.datakind.org/). I've also been a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). 
+Previously I've worked on poverty prediction and big data for labor at the World Bank. I'm a [Harvard MPA-ID](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) grad and have been a Fellow at [Data Incubator](https://www.thedataincubator.com/) and member of DataCorps with [DataKind](https://www.datakind.org/). I've also been a Program Manager at [Data-Pop Alliance](https://datapopalliance.org/). 
 
 When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) and a struggling billiards player.
 
