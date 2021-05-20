@@ -53,6 +53,7 @@ Labor Market: An Experiment in Online Job Portal](http://documents.worldbank.org
 
 * [Shell script for Pomodoro timer and task logger](https://github.com/areias/pomodoro)
 
+* [Sailing Club of Washington (SCOW) by the numbers](https://nbviewer.jupyter.org/github/areias/scow/blob/0de6d83fb1cc3bdd5750ab583e7ab18db5494509/code/scow_final.ipynb)
 
 
 For more details and contact info check out my [Linkedin.](https://www.linkedin.com/in/aareias)
