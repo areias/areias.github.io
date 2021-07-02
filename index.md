@@ -17,6 +17,8 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 ## Have a look at some projects I've worked on with Kineviz:
 
+* [NODES 2021 - Neo4j Conference](https://neo4j.brand.live/c/2021nodes-homepage) Presentation in Data Science track video available on conference page and [slide deck](https://areias.github.io/dreams/#/) 
+
 * [DreamCatcher: Deep Learning and Graph Analytics for the Dreamscape ](https://www.kineviz.com/post/2021/5/3/dreamcatcher-deep-learning-and-graph-analytics-for-the-dreamscape) blogpost and companion [Jupyter notebook](https://nbviewer.jupyter.org/github/areias/dreams/blob/43013dd813bb64938d2cc80fb4eabfc25ff92ed5/code/dream_catcher.ipynb)
 
 * [Twitter Demographics and the Election 2020](https://www.kineviz.com/post/2020/10/20/twitter-demographics-and-elections-2020)
