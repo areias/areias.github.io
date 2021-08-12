@@ -23,6 +23,8 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 * [Twitter Demographics and the Election 2020](https://www.kineviz.com/post/2020/10/20/twitter-demographics-and-elections-2020)
 
+* [DJDC #34 - Twitter's #Elections2020 through the lens of data science + the arts](https://www.meetup.com/data-journalism/events/273903386/)
+
 
 ## **with the World Bank;**
 
