@@ -19,14 +19,16 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 * [NODES 2021 - Neo4j Conference](https://neo4j.brand.live/c/2021nodes-homepage) Presentation in Data Science track video available on conference page and [slide deck](https://areias.github.io/dreams/#/) 
 
-* [DreamCatcher: Deep Learning and Graph Analytics for the Dreamscape ](https://www.kineviz.com/post/2021/5/3/dreamcatcher-deep-learning-and-graph-analytics-for-the-dreamscape) blogpost and companion [Jupyter notebook](https://nbviewer.jupyter.org/github/areias/dreams/blob/43013dd813bb64938d2cc80fb4eabfc25ff92ed5/code/dream_catcher.ipynb)
+* [DreamCatcher: Deep Learning and Graph Analytics for the Dreamscape ](https://www.kineviz.com/allposts/2021/5/3/dreamcatcher-deep-learning-and-graph-analytics-for-the-dreamscape) blogpost and companion [Jupyter notebook](https://nbviewer.jupyter.org/github/areias/dreams/blob/43013dd813bb64938d2cc80fb4eabfc25ff92ed5/code/dream_catcher.ipynb)
 
-* [Twitter Demographics and the Election 2020](https://www.kineviz.com/post/2020/10/20/twitter-demographics-and-elections-2020)
+* [Twitter Demographics and the Election 2020](https://www.kineviz.com/allposts/2020/10/20/twitter-demographics-and-elections-2020)
 
 * [DJDC #34 - Twitter's #Elections2020 through the lens of data science + the arts](https://www.meetup.com/data-journalism/events/273903386/)
 
 
 ## **with the World Bank;**
+
+* [Machine Learning and Prediction of Beneficiary Eligibility for Social Protection Programs. Chapter 8 in book "Revisiting Targeting in Social Assistance : A New Look at Old Dilemmas"] (https://openknowledge.worldbank.org/handle/10986/37228)
 
 * [Large Number of Job Ads in India Explicitly Prefer Men: World Bank Study](https://thewire.in/women/women-jobs-india-ads-prefer-men)
 
