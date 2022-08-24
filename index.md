@@ -28,7 +28,7 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 ## **with the World Bank;**
 
-* [Machine Learning and Prediction of Beneficiary Eligibility for Social Protection Programs. Chapter 8 in book "Revisiting Targeting in Social Assistance : A New Look at Old Dilemmas"] (https://openknowledge.worldbank.org/handle/10986/37228)
+* [Machine Learning and Prediction of Beneficiary Eligibility for Social Protection Programs. Chapter 8 in book "Revisiting Targeting in Social Assistance : A New Look at Old Dilemmas"](https://openknowledge.worldbank.org/handle/10986/37228)
 
 * [Large Number of Job Ads in India Explicitly Prefer Men: World Bank Study](https://thewire.in/women/women-jobs-india-ads-prefer-men)
 
