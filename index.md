@@ -17,7 +17,7 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 ## Have a look at some projects I've worked on with Kineviz:
 
-* FluBERTa - UMAP projection of RoBERTa Transformer embeddings learnt from 33k Flu sequences shows distinct hemagglutinin groups within host organism groups.[Part of Kineviz' Art of Graph series](https://www.linkedin.com/posts/kineviz-inc-_datavisualization-art-machinelearning-activity-7036801617844719616-lj8s?utm_source=share&utm_medium=member_desktop) and [animated visualization](https://www.youtube.com/watch?v=vcXOYTX6Mjs)
+* FluBERTa - UMAP projection of RoBERTa Transformer embeddings learnt from 33k Flu sequences shows distinct hemagglutinin groups within host organism groups. [Part of Kineviz' Art of Graph series](https://www.linkedin.com/posts/kineviz-inc-_datavisualization-art-machinelearning-activity-7036801617844719616-lj8s?utm_source=share&utm_medium=member_desktop) and [animated visualization.](https://www.youtube.com/watch?v=vcXOYTX6Mjs)
 
 * [NODES 2021 - Neo4j Conference](https://neo4j.brand.live/c/2021nodes-homepage) Presentation in Data Science track video available on conference page and [slide deck](https://areias.github.io/dreams/#/) 
 
