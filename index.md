@@ -2,6 +2,9 @@
 
 # I'm Ana Areias, a Development Economist and Data Scientist.
 
+<video src="hand-tracking (online-vide-cutter.com).mp4" width="320" height="240" controls></video>
+
+
 Today, humans generate exponentially more data than ever before, about behaviors or processes that used to be unmeasurable, in forms that previously would never before have been considered “data.”
 
 I get a thrill from looking at the world through the ultimately very creative lens of a data scientist—what is “data-izable,” or “data-fiable,” that could be mined for new insights about human behavior? How can I combine previously disparate data to generate predictions that will help improve business processes, or even human quality of life?
