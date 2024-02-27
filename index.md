@@ -2,9 +2,15 @@
 
 # I'm Ana Areias, a Development Economist and Data Scientist.
 
+
+<div style="text-align: center;">
 <video controls="" width="640" height="360" muted="" loop="" autoplay="">
 <source src="https://areias.github.io/hand-tracking%20(online-video-cutter.com).mp4" type="video/mp4">
 </video>
+    <p style="font-style: italic;">Tracking fingertip coordinates with [MediaPipe Hands](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)</p>
+</div>
+
+
 
 Today, humans generate exponentially more data than ever before, about behaviors or processes that used to be unmeasurable, in forms that previously would never before have been considered “data.”
 
@@ -20,6 +26,8 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 
 ## Have a look at some projects I've worked on with Kineviz:
+
+* [Locally hosted LLMs for entity and relationship extraction - Comparing the quality of responses generated with self-hosted Mistral-7b with OpenAI’s ChatGPT](https://medium.com/p/7628bb5efa72)
 
 * FluBERTa - UMAP projection of RoBERTa Transformer embeddings learnt from 33k Flu sequences shows distinct hemagglutinin groups within host organism groups. [Part of Kineviz' Art of Graph series](https://www.linkedin.com/posts/kineviz-inc-_datavisualization-art-machinelearning-activity-7036801617844719616-lj8s?utm_source=share&utm_medium=member_desktop) and [animated visualization.](https://www.youtube.com/watch?v=vcXOYTX6Mjs)
 
