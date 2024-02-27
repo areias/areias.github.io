@@ -2,7 +2,7 @@
 
 # I'm Ana Areias, a Development Economist and Data Scientist.
 
-<video src="hand-tracking (online-vide-cutter.com).mp4" width="640" height="360" controls autoplay></video>
+<video src="https://github.com/areias/areias.github.io/blob/d297b39a1105b4856398a7ac9265da2503023518/hand-tracking%20(online-video-cutter.com).mp4" width="640" height="360" controls autoplay></video>
 
 
 Today, humans generate exponentially more data than ever before, about behaviors or processes that used to be unmeasurable, in forms that previously would never before have been considered “data.”
