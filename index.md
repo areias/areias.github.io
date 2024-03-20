@@ -25,6 +25,8 @@ When I'm not coding for fun I'm an [avid surfer](https://youtu.be/tyBv6kpKpjQ) a
 
 ## Have a look at some projects I've worked on with Kineviz:
 
+* [Fine-tuning to enhance NLP tasks with small, self-hosted language models - Instruction fine-tuning Mistral:Instruct 7B improved standard named entity recognition (NER) F1 score by 12% and domain-specific NER by 30%.](https://medium.com/kineviz/fine-tuning-to-enhance-nlp-tasks-with-small-self-hosted-language-models-4480323d1c02)
+
 * [Locally hosted LLMs for entity and relationship extraction - Comparing the quality of responses generated with self-hosted Mistral-7b with OpenAI’s ChatGPT](https://medium.com/p/7628bb5efa72)
 
 * FluBERTa - UMAP projection of RoBERTa Transformer embeddings learnt from 33k Flu sequences shows distinct hemagglutinin groups within host organism groups. [Part of Kineviz' Art of Graph series](https://www.linkedin.com/posts/kineviz-inc-_datavisualization-art-machinelearning-activity-7036801617844719616-lj8s?utm_source=share&utm_medium=member_desktop) and [animated visualization.](https://www.youtube.com/watch?v=vcXOYTX6Mjs)
